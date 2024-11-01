@@ -1,10 +1,11 @@
 import React from 'react'
-import Login from './components/Login'
+import Student from './components/Student'
+
 
 function App() {
   return (
     <div>
-      <Login/>
+      <Student/>
     </div>
   )
 }
